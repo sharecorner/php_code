@@ -1,0 +1,84 @@
+[ 2017-03-15T10:43:55+08:00 ] ::1 /shopdemo2/Public/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:44:03+08:00 ] ::1 /shopdemo2/Public/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:44:04+08:00 ] ::1 /shopdemo2/Public/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:44:05+08:00 ] ::1 /shopdemo2/Public/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:49:51+08:00 ] ::1 /shopdemo2/Public/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:49:51+08:00 ] ::1 /shopdemo2/Public/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:49:59+08:00 ] ::1 /shopdemo2/Public/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T10:49:59+08:00 ] ::1 /shopdemo2/Public/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T11:03:31+08:00 ] ::1 /shopdemo2/Public/images/usBox_2bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T11:07:20+08:00 ] ::1 /shopdemo2/Public/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T11:07:20+08:00 ] ::1 /shopdemo2/Public/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T11:07:22+08:00 ] ::1 /shopdemo2/Public/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T11:07:22+08:00 ] ::1 /shopdemo2/Public/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-15T11:42:14+08:00 ] ::1 /shopdemo2/Public/images/zoomin.cur
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Public
+
